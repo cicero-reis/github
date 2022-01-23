@@ -1,10 +1,10 @@
 ### Description
 
-Add here a description about your Pull Request
+Adicione aqui uma descrição sobre o seu Pull Request
 
 ### Review
 
-- [ ] Check the copy
+- [ ] Verifique a cópia
 - [ ] ...
 - [ ] ...
 

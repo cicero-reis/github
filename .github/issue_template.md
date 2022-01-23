@@ -1,14 +1,14 @@
 ## Pre create issue
 
-- [ ] Read the guidelines
-- [ ] Test in all browsers
+- [ ] Leia as orientações
+- [ ] Teste em todos os navegadores
 - [ ] ...
 
 
 ## Description
 
-Add here all the descriptions that you think it will be useful and valuable to this issue.
+Adicione aqui todas as descrições que você acha que serão úteis e valiosas para esta questão.
 
 ## Screenshots
 
-Add screenshots case needes, otherwise delete this section.
+Adicione capturas de tela caso precise, caso contrário, exclua esta seção.
